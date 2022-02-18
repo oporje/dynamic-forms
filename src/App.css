@@ -1,0 +1,15 @@
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #fbf8da;
+  height: 100vh;
+}
+
+img {
+  height: 4rem;
+  width: 4rem;
+  margin-top: 1rem;
+}
