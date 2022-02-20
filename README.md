@@ -31,5 +31,5 @@ More test coverage can be done. I had some constraints, purpose was to showcase 
 1. Download / clone the code
 2. run `npm i` command to install all the packages
 3. run `npm start` command to start the application
-
+4) run `npm run test` to run the unit test cases
 ## Thank you :) Enjoyed it !
